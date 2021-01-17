@@ -1,0 +1,50 @@
+Student_NO: 1
+Math: 78
+Physics: 78
+Chemistry: 45
+
+Student_NO: 2
+Math: 78
+Physics: 45
+Chemistry: 78
+
+Student_NO: 3
+Math: 45
+Physics: 78
+Chemistry: 78
+
+Student_NO: 4
+Math: 45
+Physics: 45
+Chemistry: 78
+
+Student_NO: 5
+Math: 78
+Physics: 78
+Chemistry: 45
+
+Student_NO: 6
+Math: 78
+Physics: 54
+Chemistry: 54
+
+Student_NO: 7
+Math: 54
+Physics: 65
+Chemistry: 25
+
+Student_NO: 8
+Math: 85
+Physics: 78
+Chemistry: 45
+
+Student_NO: 9
+Math: 96
+Physics: 85
+Chemistry: 74
+
+Student_NO: 10
+Math: 85
+Physics: 74
+Chemistry: 85
+
